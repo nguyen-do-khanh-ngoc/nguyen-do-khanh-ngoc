@@ -6,7 +6,7 @@ I'm a Data Science student passionate about turning raw data into actionable ins
 *   🔭 **Currently working on:** Modular Machine Learning pipelines, Deep Learning architectures (RNN, LSTM, GRU), and deploying apps with Streamlit.
 *   🌱 **Currently exploring:** Quantitative Finance, backtesting algorithmic trading strategies (GARCH, Fama-French), and Database Design (PostgreSQL, MongoDB).
 *   👯 **Open to collaborate on:** Data Engineering workflows, ETL pipelines, and NLP projects.
-*   ⚡ **Fun fact:** When I'm not tuning hyperparameters or writing SQL queries, I enjoy translating web novels!
+*   ⚡ **Fun fact:** When I'm not tuning hyperparameters or writing SQL queries, I enjoy translating variety shows on Youtube!
 
 ---
 
