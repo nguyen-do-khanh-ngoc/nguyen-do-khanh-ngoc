@@ -3,11 +3,9 @@
 I'm a Data Science student passionate about turning raw data into actionable insights and building robust machine learning pipelines. 
 
 **What I do:**
-*   🔭 **Currently working on:** Modular Machine Learning pipelines, Deep Learning architectures (RNN, LSTM, GRU), and deploying apps with Streamlit.
-*   🌱 **Currently exploring:** Quantitative Finance, backtesting algorithmic trading strategies (GARCH, Fama-French), and Database Design (PostgreSQL, MongoDB).
-*   👯 **Open to collaborate on:** Data Engineering workflows, ETL pipelines, and NLP projects.
-*   ⚡ **Fun fact:** When I'm not tuning hyperparameters or writing SQL queries, I enjoy translating variety shows on Youtube!
-
+* 🔭 **Currently working on:** Extracting actionable insights from raw datasets, building interactive Power BI dashboards, and conducting customer segmentation.
+* 🌱 **Currently exploring:** Advanced SQL (CTEs, Window Functions) for business metrics, Market Basket Analysis, and Commercial Data Analytics.
+* 👯 **Open to collaborate on:** Business Intelligence (BI) projects, data visualization, and market research analysis.
 ---
 
 ### 📫 Connect with me:
