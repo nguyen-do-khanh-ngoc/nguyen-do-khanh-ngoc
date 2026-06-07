@@ -12,7 +12,7 @@ I'm a Data Science student passionate about turning raw data into actionable ins
 
 ### 📫 Connect with me:
 <!-- Điền link LinkedIn của bạn vào thay cho dấu [...] ở cuối dòng dưới -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin-id-here])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nguy])
 <!-- Điền địa chỉ Gmail của bạn vào thay cho dấu [...] ở cuối dòng dưới -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:[ngocdobentre@gmail.com])
 
